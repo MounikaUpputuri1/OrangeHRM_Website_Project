@@ -1,1 +1,1 @@
-OrangeHRM is a software which can be used by small
+OrangeHRM is a software which can be used by small and medium size companies for handling their crucial asset that is people. It is a way to produce a cost-effective system to re-engineer HR process. In this software mainly there are two users, the first Admin and second ESS user that is employee himself. Admin is available with full access for the application while ESS having limited access.
